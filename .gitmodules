@@ -1,0 +1,7 @@
+
+[submodule "botan"]
+	path = Libraries/Botan/botan
+	url = https://github.com/randombit/botan.git
+[submodule "Libraries/OpenSSL/openssl"]
+	path = Libraries/OpenSSL/openssl
+	url = https://github.com/openssl/openssl.git
